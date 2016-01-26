@@ -11,7 +11,7 @@
     android:clickable="false"
     android:background="#0ad7ea">
 
-    <TextView android:text="Sos un Genio noob" android:layout_width="wrap_content"
+    <TextView android:text="Sos un Genio com.example.alumno.prueba.noob" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#f40e0e"
         android:textSize="32dp" />
